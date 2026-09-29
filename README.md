@@ -1,151 +1,81 @@
 <div align="center">
 
-# TESSA ANGELIKA MMAITSI
+# Tessa Angelika Mmaitsi
 
-### Learning Experience Designer • Instructional Designer • eLearning Developer
+**Learning Experience Designer · Instructional Designer · eLearning Developer**
 
-**Designing learning that is clear, human, engaging, and built for real-world application.**
+I design learning experiences that turn complex information into practical knowledge and confident action.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20My%20Work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.tessaangelika.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tessammaitsi/)
-[![Email](https://img.shields.io/badge/Email-Work%20With%20Me-374151?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tessangelika@gmail.com)
-
-**Instructional Design** &nbsp; • &nbsp; **eLearning** &nbsp; • &nbsp; **LMS & Learning Technology** &nbsp; • &nbsp; **Technical Education**
+[Portfolio website](https://tessangelika.github.io/Tessangelika/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/tessammaitsi/) &nbsp; · &nbsp; [Email](mailto:tessangelika@gmail.com)
 
 </div>
 
 ---
 
-## About me
+## Profile
 
-I turn complex information into engaging, practical learning experiences. My work combines **learning experience design, instructional design, digital learning development, and learning technology** with a creative foundation in **Theatre Arts and Film Technology**.
+I work at the intersection of **learning design, digital education and learning technology**, combining a background in Theatre Arts and Film Technology with instructional design, multimedia learning and technical education.
 
-I have designed and supported learning across professional education, cloud and technical training, cybersecurity awareness, sales enablement, and career exploration. I care about more than polished course screens: I design for **what people need to understand, practice, and do differently**.
+My experience includes professional learning, cloud and cybersecurity education, workplace onboarding and exploratory AI-enhanced learning concepts. I design with the learner's context, measurable outcomes and real-world application in mind.
 
-🌍 **Based in Nairobi, Kenya • Open to local and international collaborations**
+**Based in Nairobi, Kenya · Collaborating with local and international teams**
 
-## My learning technology stack
+## Selected projects
 
-My toolkit combines authoring tools, learning management systems, multimedia production, and interoperability standards. These are **learning technologies**, not a claim that I am a full-stack software developer.
+Each project below highlights a distinct learning challenge. Detailed case studies and visual evidence belong on the [portfolio website](https://tessangelika.github.io/Tessangelika/) rather than in a crowded profile README.
 
-### ✨ eLearning authoring & creative production
+| Project | Context | Contribution | Focus |
+| :--- | :--- | :--- | :--- |
+| **MBDI University** | Professional education in construction-related subjects | Designed learning architecture, case-based activities, interactive eLearning, assessments and LMS learner journeys | Curriculum · Scenario-based learning · LMS |
+| **AfroCloud Technologies** | Technical learning | Developed technical curriculum, learning objectives, practical assessments and digital learning | Technical education · eLearning |
+| **CloudMyTribe** | Cloud learning and community enablement | Created learning paths, microlearning, onboarding and workshop learning support | Learning paths · Microlearning |
+| **Cozy Earth** | Brand ambassador and sales enablement | Developed product knowledge and practical onboarding experiences | Sales training · Multimedia |
+| **CyberSafe Foundation** | Cybersecurity awareness | Contributed cybersecurity learning and online activities for diverse audiences | Digital education · Cybersecurity |
+| **Nova Pioneer** | Teen career exploration | Designed the *Finding My Path* **concept prototype**, exploring reflection, quizzes, peer learning and AI-coach concepts | Learner experience prototype · AI concepts |
 
-<p>
-  <img alt="Articulate Storyline" src="https://img.shields.io/badge/Articulate-Storyline-702082?style=for-the-badge" />
-  <img alt="Articulate Rise" src="https://img.shields.io/badge/Articulate-Rise-702082?style=for-the-badge" />
-  <img alt="Articulate 360" src="https://img.shields.io/badge/Articulate-360-702082?style=for-the-badge" />
-  <img alt="Vyond" src="https://img.shields.io/badge/Vyond-Animation-FF6B35?style=for-the-badge" />
-  <img alt="Canva" src="https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img alt="Camtasia" src="https://img.shields.io/badge/Camtasia-Video%20Production-2B8A3E?style=for-the-badge" />
-</p>
+[Explore the full project case studies](https://tessangelika.github.io/Tessangelika/#work)
 
-**Applied to:** interactive modules, branching scenarios, video-led lessons, storyboards, microlearning, knowledge checks, and learner-facing visual content.
+## Learning technology stack
 
-### 🧩 Learning management systems
+Tools and platforms below are grouped by purpose. This is a **learning technology stack**, not a software engineering stack.
 
-<p>
-  <img alt="Moodle" src="https://img.shields.io/badge/Moodle-LMS-F98012?style=for-the-badge&logo=moodle&logoColor=white" />
-  <img alt="TalentLMS" src="https://img.shields.io/badge/TalentLMS-LMS-1177BB?style=for-the-badge" />
-  <img alt="360Learning" src="https://img.shields.io/badge/360Learning-LMS-1B998B?style=for-the-badge" />
-  <img alt="Docebo" src="https://img.shields.io/badge/Docebo-LMS-0056A6?style=for-the-badge" />
-</p>
+**eLearning authoring and multimedia**
 
-**Applied to:** course setup, learning paths, enrolments, learner support, reporting, QA, and learning programme delivery.
+![Articulate Storyline](https://img.shields.io/badge/Articulate-Storyline-EEEAF7?style=flat-square&labelColor=EEEAF7&color=EEEAF7)
+![Articulate Rise](https://img.shields.io/badge/Articulate-Rise-EEEAF7?style=flat-square)
+![Articulate 360](https://img.shields.io/badge/Articulate-360-EEEAF7?style=flat-square)
+![Vyond](https://img.shields.io/badge/Vyond-Animation-F0E9DF?style=flat-square)
+![Camtasia](https://img.shields.io/badge/Camtasia-Video-F0E9DF?style=flat-square)
+![Canva](https://img.shields.io/badge/Canva-Design-F0E9DF?style=flat-square)
 
-**Additional platform familiarity:** Workday Learning and learning experience platforms (LXPs). Familiarity is listed separately from hands-on LMS administration.
+**Learning management systems**
 
-### 🔗 eLearning standards & delivery
+![Moodle](https://img.shields.io/badge/Moodle-LMS-E9F1EF?style=flat-square)
+![TalentLMS](https://img.shields.io/badge/TalentLMS-LMS-E9F1EF?style=flat-square)
+![360Learning](https://img.shields.io/badge/360Learning-LMS-E9F1EF?style=flat-square)
+![Docebo](https://img.shields.io/badge/Docebo-LMS-E9F1EF?style=flat-square)
 
-<p>
-  <img alt="SCORM" src="https://img.shields.io/badge/SCORM-Content%20Packaging-475569?style=for-the-badge" />
-  <img alt="xAPI" src="https://img.shields.io/badge/xAPI-Tin%20Can-475569?style=for-the-badge" />
-  <img alt="LMS QA" src="https://img.shields.io/badge/LMS-Quality%20Assurance-475569?style=for-the-badge" />
-  <img alt="Learning Analytics" src="https://img.shields.io/badge/Learning-Analytics-475569?style=for-the-badge" />
-</p>
+**Standards and delivery**
 
-**Applied to:** LMS-ready publishing, completion tracking, learning analytics, assessment reporting, cross-device checks, and course launch support.
+![SCORM](https://img.shields.io/badge/SCORM-Packaging-EDF0F3?style=flat-square)
+![xAPI](https://img.shields.io/badge/xAPI-Learning%20Data-EDF0F3?style=flat-square)
+![LMS QA](https://img.shields.io/badge/LMS-Quality%20Assurance-EDF0F3?style=flat-square)
+![Learning Analytics](https://img.shields.io/badge/Learning-Analytics-EDF0F3?style=flat-square)
 
-### ☁️ Cloud, cybersecurity & IT foundations
+**Additional platform familiarity:** Workday Learning and learning experience platforms.
 
-<p>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-Cloud%20Fundamentals-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-Fundamentals-0078D4?style=for-the-badge" />
-  <img alt="Cloud Security" src="https://img.shields.io/badge/Cloud-Security%20Knowledge-334155?style=for-the-badge" />
-  <img alt="ITIL" src="https://img.shields.io/badge/ITIL-v4%20Foundation-334155?style=for-the-badge" />
-</p>
+**Cloud and IT certifications listed in my CV:** AWS Certified Cloud Practitioner · Microsoft Azure Fundamentals (AZ-900) · Certificate of Cloud Security Knowledge (CCSK) · ITIL 4 Foundation.
 
-**Certifications listed in my CV:** AWS Certified Cloud Practitioner, Microsoft Azure Fundamentals (AZ-900), Certificate of Cloud Security Knowledge (CCSK), and ITIL 4 Foundation.
+## My approach
 
-These credentials support my **technical learning and cybersecurity education** work; they do not imply professional software engineering or cloud architecture services.
+| 01. Discover | 02. Design | 03. Develop | 04. Deliver and improve |
+| :--- | :--- | :--- | :--- |
+| Understand learners, context and performance needs | Define outcomes, map journeys and plan assessments | Build scenarios, interactions and accessible content | Publish, QA, support learners and review feedback |
 
-## What I design
+## Work with me
 
-| Service | Typical deliverables |
-| :--- | :--- |
-| **Learning experience design** | Learner journeys, learning architecture, storyboards, case-based experiences |
-| **Instructional design** | Curriculum, measurable objectives, activities, assessments, rubrics |
-| **eLearning development** | Interactive modules, branching scenarios, microlearning, multimedia |
-| **LMS implementation & support** | Course configuration, learning paths, enrolments, QA, reporting |
-| **Technical & workplace learning** | Cloud and cybersecurity education, onboarding, product and sales training |
-| **Emerging learning experiences** | Exploratory AI-supported learning concepts and prototypes |
+I collaborate on **instructional design, learning experience design, eLearning development, LMS implementation and technical education**.
 
-## Selected portfolio work
+[View portfolio](https://tessangelika.github.io/Tessangelika/) · [Connect on LinkedIn](https://www.linkedin.com/in/tessammaitsi/) · [Start a conversation](mailto:tessangelika@gmail.com)
 
-> Client projects are described at a high level to respect confidentiality. Project descriptions are not links to confidential source materials.
-
-| Project | Learning challenge | My contribution |
-| :--- | :--- | :--- |
-| **MBDI University** | Professional learning in construction-related topics | Learning architecture, case-based eLearning, assessments, LMS delivery and QA |
-| **AfroCloud Technologies** | Making technical topics teachable and assessable | Technical curriculum, eLearning, objectives, rubrics, practical assessments |
-| **CloudMyTribe** | Supporting cloud learning and learner progression | Learning paths, microlearning, onboarding, workshop and certification support |
-| **Cozy Earth** | Preparing brand ambassadors for effective sales conversations | Product knowledge, sales onboarding and practical job-readiness training |
-| **CyberSafe Foundation** | Building cybersecurity awareness | Digital learning activities and cybersecurity education |
-| **Nova Pioneer** | Helping teens explore career possibilities | *Finding My Path* learning experience **prototype**, including AI-coach and feedback concepts |
-
-### Featured learning design: MBDI University
-
-**From understanding to analysis to application.**
-
-A case-based professional learning journey designed around a practical sequence:
-
-```text
-Watch a simulation → Analyze evidence → Reflect
-          → Check understanding → Recap & apply
-```
-
-The work brings together course architecture, interactive learning, practical activities, knowledge checks, assessment, LMS setup, and quality assurance.
-
-### Experimental learning design: Finding My Path
-
-A **concept prototype**, not a launched production product, exploring teen career learning through video, guided reflection, peer sharing, quizzes, and AI-supported coaching and feedback concepts.
-
-## My design process
-
-```text
-DISCOVER          DESIGN           DEVELOP          DELIVER          IMPROVE
-Learners     →    Outcomes    →    Experiences  →   LMS / launch →   Feedback
-Context           Journey          Media             QA               Iteration
-Needs             Assessment       Interaction       Support          Analytics
-```
-
-I prioritize **learning outcomes, accessibility, learner engagement, and real-world application** over content volume.
-
-## GitHub & public work
-
-This profile supports my professional portfolio with **public learning-technology explorations, prototypes, and documentation** where sharing rights permit. My client-owned course files, LMS data, and proprietary training content are not published here.
-
-Future public repositories may include sanitized instructional-design templates, prototype learning experiences, accessibility checklists, and sample course documentation. These are **planned examples**, not claims of already published projects.
-
----
-
-<div align="center">
-
-### Have a learning challenge in mind?
-
-I collaborate with organizations and teams that want engaging, measurable digital learning experiences.
-
-[**Explore my portfolio**](https://www.tessaangelika.com) · [**Connect on LinkedIn**](https://www.linkedin.com/in/tessammaitsi/) · [**Email me**](mailto:tessangelika@gmail.com)
-
-<sub>Learning should feel clear, useful, and human.</sub>
-
-</div>
+<sub>Client-owned learning materials and private LMS data are not published. Public portfolio descriptions are high-level; the Nova Pioneer project is identified as a prototype.</sub>
