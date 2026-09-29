@@ -1,11 +1,81 @@
-- 👋 Hi, I’m @Tessangelika
-- 👀 I’m interested in all things cloud security, I'm also interested in exploring other areas of technology such as machine learning.
-- 🌱 I am focused on gaining expertise in cloud security and computing. I am interested in and learnig topics such as secure cloud architecture design, threat modeling, identity and access management and cloud compliance.
-- 💞️ I’m looking to collaborate on projects related to cloud security or other areas of technology. Please let me know if you have any ideas or projects you'd like to collaborate on.
-- 📫 How to reach me 
-   email at tessangelika@gmail.com or by phone at +254721621338. I look forward to connecting with you on GitHub and exploring all the exciting possibilities in the world of technology
+<div align="center">
 
-<!---
-Tessangelika/Tessangelika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Tessa Angelika Mmaitsi
+
+**Learning Experience Designer · Instructional Designer · eLearning Developer**
+
+I design learning experiences that turn complex information into practical knowledge and confident action.
+
+[Portfolio website](https://tessangelika.github.io/Tessangelika/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/tessammaitsi/) &nbsp; · &nbsp; [Email](mailto:tessangelika@gmail.com)
+
+</div>
+
+---
+
+## Profile
+
+I work at the intersection of **learning design, digital education and learning technology**, combining a background in Theatre Arts and Film Technology with instructional design, multimedia learning and technical education.
+
+My experience includes professional learning, cloud and cybersecurity education, workplace onboarding and exploratory AI-enhanced learning concepts. I design with the learner's context, measurable outcomes and real-world application in mind.
+
+**Based in Nairobi, Kenya · Collaborating with local and international teams**
+
+## Selected projects
+
+Each project below highlights a distinct learning challenge. Detailed case studies and visual evidence belong on the [portfolio website](https://tessangelika.github.io/Tessangelika/) rather than in a crowded profile README.
+
+| Project | Context | Contribution | Focus |
+| :--- | :--- | :--- | :--- |
+| **MBDI University** | Professional education in construction-related subjects | Designed learning architecture, case-based activities, interactive eLearning, assessments and LMS learner journeys | Curriculum · Scenario-based learning · LMS |
+| **AfroCloud Technologies** | Technical learning | Developed technical curriculum, learning objectives, practical assessments and digital learning | Technical education · eLearning |
+| **CloudMyTribe** | Cloud learning and community enablement | Created learning paths, microlearning, onboarding and workshop learning support | Learning paths · Microlearning |
+| **Cozy Earth** | Brand ambassador and sales enablement | Developed product knowledge and practical onboarding experiences | Sales training · Multimedia |
+| **CyberSafe Foundation** | Cybersecurity awareness | Contributed cybersecurity learning and online activities for diverse audiences | Digital education · Cybersecurity |
+| **Nova Pioneer** | Teen career exploration | Designed the *Finding My Path* **concept prototype**, exploring reflection, quizzes, peer learning and AI-coach concepts | Learner experience prototype · AI concepts |
+
+[Explore the full project case studies](https://tessangelika.github.io/Tessangelika/#work)
+
+## Learning technology stack
+
+Tools and platforms below are grouped by purpose. This is a **learning technology stack**, not a software engineering stack.
+
+**eLearning authoring and multimedia**
+
+![Articulate Storyline](https://img.shields.io/badge/Articulate-Storyline-EEEAF7?style=flat-square&labelColor=EEEAF7&color=EEEAF7)
+![Articulate Rise](https://img.shields.io/badge/Articulate-Rise-EEEAF7?style=flat-square)
+![Articulate 360](https://img.shields.io/badge/Articulate-360-EEEAF7?style=flat-square)
+![Vyond](https://img.shields.io/badge/Vyond-Animation-F0E9DF?style=flat-square)
+![Camtasia](https://img.shields.io/badge/Camtasia-Video-F0E9DF?style=flat-square)
+![Canva](https://img.shields.io/badge/Canva-Design-F0E9DF?style=flat-square)
+
+**Learning management systems**
+
+![Moodle](https://img.shields.io/badge/Moodle-LMS-E9F1EF?style=flat-square)
+![TalentLMS](https://img.shields.io/badge/TalentLMS-LMS-E9F1EF?style=flat-square)
+![360Learning](https://img.shields.io/badge/360Learning-LMS-E9F1EF?style=flat-square)
+![Docebo](https://img.shields.io/badge/Docebo-LMS-E9F1EF?style=flat-square)
+
+**Standards and delivery**
+
+![SCORM](https://img.shields.io/badge/SCORM-Packaging-EDF0F3?style=flat-square)
+![xAPI](https://img.shields.io/badge/xAPI-Learning%20Data-EDF0F3?style=flat-square)
+![LMS QA](https://img.shields.io/badge/LMS-Quality%20Assurance-EDF0F3?style=flat-square)
+![Learning Analytics](https://img.shields.io/badge/Learning-Analytics-EDF0F3?style=flat-square)
+
+**Additional platform familiarity:** Workday Learning and learning experience platforms.
+
+**Cloud and IT certifications listed in my CV:** AWS Certified Cloud Practitioner · Microsoft Azure Fundamentals (AZ-900) · Certificate of Cloud Security Knowledge (CCSK) · ITIL 4 Foundation.
+
+## My approach
+
+| 01. Discover | 02. Design | 03. Develop | 04. Deliver and improve |
+| :--- | :--- | :--- | :--- |
+| Understand learners, context and performance needs | Define outcomes, map journeys and plan assessments | Build scenarios, interactions and accessible content | Publish, QA, support learners and review feedback |
+
+## Work with me
+
+I collaborate on **instructional design, learning experience design, eLearning development, LMS implementation and technical education**.
+
+[View portfolio](https://tessangelika.github.io/Tessangelika/) · [Connect on LinkedIn](https://www.linkedin.com/in/tessammaitsi/) · [Start a conversation](mailto:tessangelika@gmail.com)
+
+<sub>Client-owned learning materials and private LMS data are not published. Public portfolio descriptions are high-level; the Nova Pioneer project is identified as a prototype.</sub>
