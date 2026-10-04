@@ -66,13 +66,38 @@ Claude · ChatGPT · Gemini · Synthesia · HeyGen · ElevenLabs · Noiz · Mind
 ![LMS QA](https://img.shields.io/badge/LMS-Quality%20Assurance-EDF0F3?style=flat-square)
 ![Learning Analytics](https://img.shields.io/badge/Learning-Analytics-EDF0F3?style=flat-square)
 
-**Additional platform familiarity:** Workday Learning and learning experience platforms.
+**Additional learning platforms**
 
-**Cloud, security and AI credentials:** AWS Certified Cloud Practitioner (CLF-C02, 804/1000) · Microsoft Azure Fundamentals (AZ-900) · CCSK Foundation Training · ITIL 4 Foundation · Cisco Junior Cybersecurity Analyst · CyberGirls Cloud Security Fellowship (Grade A, 76.92/100) · Future of AI (BlueDot Impact, 2026).
+![Workday Learning](https://img.shields.io/badge/Workday-Learning-EDF0F3?style=flat-square)
+![Learning Experience Platforms](https://img.shields.io/badge/Learning%20Experience-Platforms-EDF0F3?style=flat-square)
 
-**Cybersecurity tools and methods:** MITRE ATT&CK Navigator · Breach and Attack Simulation · Purple Teaming · Attack Flows · AttackIQ · Jupyter Notebooks for security control validation · Identity and Access Management.
+**Cloud, security and AI credentials**
 
-**Cybersecurity education:** Threat awareness, cloud security and security-focused learning design.
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-EDF0F3?style=flat-square)
+![Microsoft Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ--900-EDF0F3?style=flat-square)
+![CCSK](https://img.shields.io/badge/CCSK-Foundation%20Training-EDF0F3?style=flat-square)
+![ITIL 4](https://img.shields.io/badge/ITIL-4%20Foundation-EDF0F3?style=flat-square)
+![Cisco Junior Cybersecurity Analyst](https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst-EDF0F3?style=flat-square)
+![CyberGirls Cloud Security](https://img.shields.io/badge/CyberGirls-Cloud%20Security%20Grade%20A-EDF0F3?style=flat-square)
+![Future of AI](https://img.shields.io/badge/BlueDot%20Impact-Future%20of%20AI-EDF0F3?style=flat-square)
+
+<sub>AWS CLF-C02: 804/1000 · CyberGirls Cloud Security Fellowship: Grade A, 76.92/100 · Future of AI: 2026</sub>
+
+**Cybersecurity tools and methods**
+
+![MITRE ATT&CK Navigator](https://img.shields.io/badge/MITRE-ATT%26CK%20Navigator-EDF0F3?style=flat-square)
+![AttackIQ](https://img.shields.io/badge/AttackIQ-Security%20Validation-EDF0F3?style=flat-square)
+![Breach and Attack Simulation](https://img.shields.io/badge/Breach%20%26%20Attack-Simulation-EDF0F3?style=flat-square)
+![Purple Teaming](https://img.shields.io/badge/Purple-Teaming-EDF0F3?style=flat-square)
+![Attack Flows](https://img.shields.io/badge/Attack-Flows-EDF0F3?style=flat-square)
+![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Security%20Validation-EDF0F3?style=flat-square)
+![Identity and Access Management](https://img.shields.io/badge/Identity%20%26%20Access-Management-EDF0F3?style=flat-square)
+
+**Cybersecurity education**
+
+![Threat Awareness](https://img.shields.io/badge/Threat-Awareness-EDF0F3?style=flat-square)
+![Cloud Security](https://img.shields.io/badge/Cloud-Security-EDF0F3?style=flat-square)
+![Security-focused Learning Design](https://img.shields.io/badge/Security--focused-Learning%20Design-EDF0F3?style=flat-square)
 
 ## My approach
 
