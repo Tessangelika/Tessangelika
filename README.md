@@ -4,7 +4,7 @@
 
 **Learning Experience Designer | Cybersecurity Practitioner**
 
-I design learning experiences that turn complex information into practical knowledge and confident action.
+I design learning experiences that turn complex information into practical knowledge and confident action. I bring over five years of end-to-end experience across professional, technical and educational contexts.
 
 [View Portfolio](https://drive.google.com/file/d/18J3NQsnghF2cuDqK1Ruu9wg6jXyKO5ud/view?usp=sharing) &nbsp; · &nbsp; [Portfolio website](https://tessangelika.github.io/Tessangelika/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/tessammaitsi/) &nbsp; · &nbsp; [Email](mailto:tessangelika@gmail.com)
 
@@ -16,9 +16,9 @@ I design learning experiences that turn complex information into practical knowl
 
 I work at the intersection of **learning design, digital education and learning technology**, combining a background in Theatre Arts and Film Technology with instructional design, multimedia learning and technical education.
 
-My experience includes professional learning, cloud security and cybersecurity education, workplace onboarding and exploratory AI-enhanced learning concepts. I design with the learner's context, measurable outcomes and real-world application in mind.
+I currently design AI-assisted eLearning for MBDI University in the United States. My broader experience spans professional learning, cloud learning, cybersecurity validation, youth learning and media education. I design with the learner's context, measurable outcomes and real-world application in mind.
 
-**Based in Nairobi, Kenya · Collaborating with local and international teams**
+**Based in Nairobi, Kenya · Available for full-time, contract and freelance opportunities · Collaborating internationally**
 
 ## Selected projects
 
@@ -26,12 +26,12 @@ Each project below highlights a distinct learning challenge. Detailed case studi
 
 | Project | Context | Contribution | Focus |
 | :--- | :--- | :--- | :--- |
-| **MBDI University** | Professional education in construction-related subjects | Designed learning architecture, case-based activities, interactive eLearning, assessments and LMS learner journeys | Curriculum · Scenario-based learning · LMS |
-| **AfroCloud Technologies** | Technical learning | Developed technical curriculum, learning objectives, practical assessments and digital learning | Technical education · eLearning |
-| **CloudMyTribe** | Cloud learning and community enablement | Created learning paths, microlearning, onboarding and workshop learning support | Learning paths · Microlearning |
+| **MBDI University / Embrace Partners** | Professional education in construction, finance, operations and compliance | Design AI-assisted curricula across 25 courses and 125 lessons; learning journeys, storyboards, assessments, Moodle/Tovuti delivery and QA | Curriculum · Scenario-based learning · LMS · AI-assisted production |
+| **AfroCloud Technologies** | Technical learning | Designed and delivered technical eLearning, practical assessments and evidence-led module improvements | Technical education · Assessment · eLearning |
+| **CloudMyTribe** | Cloud learning for adult beginners | Designed cloud learning journeys, microlearning, practical checkpoints and cohort learning support | Learning paths · Microlearning · Cloud |
 | **Cozy Earth** | Brand ambassador and sales enablement | Developed product knowledge and practical onboarding experiences | Sales training · Multimedia |
 | **CyberSafe Foundation** | Cloud security training | CyberGirls Fellow, Cohort 2023; completed structured Cloud Security programme with Grade A (76.92/100), informing security-aware learning design | Cybersecurity · Technical learning |
-| **Nova Pioneer** | Teen career exploration | Designed the *Finding My Path* **concept prototype**, exploring reflection, quizzes, peer learning and AI-coach concepts | Learner experience prototype · AI concepts |
+| **Nova Pioneer School** | Social-emotional and career learning | Designed self-paced learning using scenario activities, AI-coach prompts, peer sharing and assessments | Learning experience · AI concepts · Youth learning |
 
 [Explore the full project case studies](https://tessangelika.github.io/Tessangelika/#work)
 
@@ -68,9 +68,9 @@ Claude · ChatGPT · Gemini · Synthesia · HeyGen · ElevenLabs · Noiz · Mind
 
 **Additional platform familiarity:** Workday Learning and learning experience platforms.
 
-**Cloud and IT credentials:** AWS Certified Cloud Practitioner · Microsoft Azure Fundamentals (AZ-900) · Certificate of Cloud Security Knowledge (CCSK) · ITIL 4 Foundation · Cisco Junior Cybersecurity Analyst · CyberGirls Fellowship (Grade A).
+**Cloud, security and AI credentials:** AWS Certified Cloud Practitioner (CLF-C02, 804/1000) · Microsoft Azure Fundamentals (AZ-900) · CCSK Foundation Training · ITIL 4 Foundation · Cisco Junior Cybersecurity Analyst · CyberGirls Cloud Security Fellowship (Grade A, 76.92/100) · Future of AI (BlueDot Impact, 2026).
 
-**Cybersecurity tools and methods:** MITRE ATT&CK Navigator · Breach and Attack Simulation · Purple Teaming · AttackIQ.
+**Cybersecurity tools and methods:** MITRE ATT&CK Navigator · Breach and Attack Simulation · Purple Teaming · Attack Flows · AttackIQ · Jupyter Notebooks for security control validation · Identity and Access Management.
 
 **Cybersecurity education:** Threat awareness, cloud security and security-focused learning design.
 
@@ -82,7 +82,7 @@ Claude · ChatGPT · Gemini · Synthesia · HeyGen · ElevenLabs · Noiz · Mind
 
 ## Work with me
 
-I collaborate on **instructional design, learning experience design, eLearning development, LMS implementation and technical education**.
+I am available for **full-time, contract and freelance opportunities** across instructional design, learning experience design, eLearning development, LMS administration and technical education.
 
 [View project portfolio](https://drive.google.com/file/d/18J3NQsnghF2cuDqK1Ruu9wg6jXyKO5ud/view?usp=sharing) · [Portfolio website](https://tessangelika.github.io/Tessangelika/) · [Connect on LinkedIn](https://www.linkedin.com/in/tessammaitsi/) · [Start a conversation](mailto:tessangelika@gmail.com)
 
