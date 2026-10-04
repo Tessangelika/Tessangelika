@@ -6,7 +6,7 @@
 
 I design learning experiences that turn complex information into practical knowledge and confident action. I bring over five years of end-to-end experience across professional, technical and educational contexts.
 
-[View Portfolio](https://drive.google.com/file/d/18J3NQsnghF2cuDqK1Ruu9wg6jXyKO5ud/view?usp=sharing) &nbsp; · &nbsp; [Portfolio website](https://tessangelika.github.io/Tessangelika/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/tessammaitsi/) &nbsp; · &nbsp; [Email](mailto:tessangelika@gmail.com)
+[View Portfolio](https://drive.google.com/file/d/18J3NQsnghF2cuDqK1Ruu9wg6jXyKO5ud/view?usp=sharing) &nbsp; · &nbsp; [Portfolio website](https://tessa-angelika-portfolio.vercel.app/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/tessammaitsi/) &nbsp; · &nbsp; [Email](mailto:tessangelika@gmail.com)
 
 </div>
 
@@ -22,7 +22,7 @@ I currently design AI-assisted eLearning for MBDI University in the United State
 
 ## Selected projects
 
-Each project below highlights a distinct learning challenge. Detailed case studies and visual evidence belong on the [portfolio website](https://tessangelika.github.io/Tessangelika/) rather than in a crowded profile README.
+Each project below highlights a distinct learning challenge. Detailed case studies and visual evidence belong on the [portfolio website](https://tessa-angelika-portfolio.vercel.app/) rather than in a crowded profile README.
 
 | Project | Context | Contribution | Focus |
 | :--- | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ Each project below highlights a distinct learning challenge. Detailed case studi
 | **CyberSafe Foundation** | Cloud security training | CyberGirls Fellow, Cohort 2023; completed structured Cloud Security programme with Grade A (76.92/100), informing security-aware learning design | Cybersecurity · Technical learning |
 | **Nova Pioneer School** | Social-emotional and career learning | Designed self-paced learning using scenario activities, AI-coach prompts, peer sharing and assessments | Learning experience · AI concepts · Youth learning |
 
-[Explore the full project case studies](https://tessangelika.github.io/Tessangelika/#work)
+[Explore the full project case studies](https://tessa-angelika-portfolio.vercel.app/#work)
 
 ## Learning technology stack
 
@@ -109,6 +109,6 @@ Claude · ChatGPT · Gemini · Synthesia · HeyGen · ElevenLabs · Noiz · Mind
 
 I am available for **full-time, contract and freelance opportunities** across instructional design, learning experience design, eLearning development, LMS administration and technical education.
 
-[View project portfolio](https://drive.google.com/file/d/18J3NQsnghF2cuDqK1Ruu9wg6jXyKO5ud/view?usp=sharing) · [Portfolio website](https://tessangelika.github.io/Tessangelika/) · [Connect on LinkedIn](https://www.linkedin.com/in/tessammaitsi/) · [Start a conversation](mailto:tessangelika@gmail.com)
+[View project portfolio](https://drive.google.com/file/d/18J3NQsnghF2cuDqK1Ruu9wg6jXyKO5ud/view?usp=sharing) · [Portfolio website](https://tessa-angelika-portfolio.vercel.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/tessammaitsi/) · [Start a conversation](mailto:tessangelika@gmail.com)
 
 <sub>Client-owned learning materials and private LMS data are not published. Public portfolio descriptions are high-level; the Nova Pioneer project is identified as a prototype.</sub>
