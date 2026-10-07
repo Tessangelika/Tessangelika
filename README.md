@@ -2,46 +2,56 @@
 
 # Tessa Angelika Mmaitsi
 
-**Learning Experience Designer | Cybersecurity Practitioner**
+**Learning Experience Designer · Cybersecurity Practitioner · AI Safety Learner**
 
-I design learning experiences that turn complex information into practical knowledge and confident action. I bring over five years of end-to-end experience across professional, technical and educational contexts.
+I design learning experiences that turn complex information into practical knowledge and confident action. Five years of end-to-end experience across professional, technical and educational contexts — including AI-enhanced eLearning, cloud security training and cybersecurity validation.
 
-[View Portfolio](https://drive.google.com/file/d/18J3NQsnghF2cuDqK1Ruu9wg6jXyKO5ud/view?usp=sharing) &nbsp; · &nbsp; [Portfolio website](https://tessa-angelika-portfolio.vercel.app/) &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/tessammaitsi/) &nbsp; · &nbsp; [Email](mailto:tessangelika@gmail.com)
+[Portfolio](https://tessa-angelika-portfolio.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/tessammaitsi/) &nbsp;·&nbsp; [Email](mailto:tessangelika@gmail.com) &nbsp;·&nbsp; [Nairobi, Kenya]
 
 </div>
 
 ---
 
-## Profile
+## What I do
 
-I work at the intersection of **learning design, digital education and learning technology**, combining a background in Theatre Arts and Film Technology with instructional design, multimedia learning and technical education.
+I work at the intersection of **learning design, cybersecurity education and AI**. My background spans instructional design, multimedia learning, LMS administration and technical security education — with a growing focus on how AI systems affect learning, knowledge work and digital safety.
 
-I currently design AI-assisted eLearning for MBDI University in the United States. My broader experience spans professional learning, cloud learning, cybersecurity validation, youth learning and media education. I design with the learner's context, measurable outcomes and real-world application in mind.
+I am currently building open curriculum resources on AI literacy and security-aware learning design. I hold the **BlueDot Impact Future of AI** certificate and am pursuing deeper engagement with AI safety through the BlueDot AI Security cohort.
 
-**Based in Nairobi, Kenya · Available for full-time, contract and freelance opportunities · Collaborating internationally**
+**Available for full-time, contract and freelance opportunities · Collaborating internationally**
 
-## Selected projects
+---
 
-Each project below highlights a distinct learning challenge. Detailed case studies and visual evidence belong on the [portfolio website](https://tessa-angelika-portfolio.vercel.app/) rather than in a crowded profile README.
+## Active projects
 
-| Project | Context | Contribution | Focus |
-| :--- | :--- | :--- | :--- |
-| **MBDI University / Embrace Partners** | Professional education in construction, finance, operations and compliance | Design AI-assisted curricula across 25 courses and 125 lessons; learning journeys, storyboards, assessments, Moodle/Tovuti delivery and QA | Curriculum · Scenario-based learning · LMS · AI-assisted production |
-| **AfroCloud Technologies** | Technical learning | Designed and delivered technical eLearning, practical assessments and evidence-led module improvements | Technical education · Assessment · eLearning |
-| **CloudMyTribe** | Cloud learning for adult beginners | Designed cloud learning journeys, microlearning, practical checkpoints and cohort learning support | Learning paths · Microlearning · Cloud |
-| **Cozy Earth** | Brand ambassador and sales enablement | Developed product knowledge and practical onboarding experiences | Sales training · Multimedia |
-| **CyberSafe Foundation** | Cloud security training | CyberGirls Fellow, Cohort 2023; completed structured Cloud Security programme with Grade A (76.92/100), informing security-aware learning design | Cybersecurity · Technical learning |
-| **Nova Pioneer School** | Social-emotional and career learning | Designed self-paced learning using scenario activities, AI-coach prompts, peer sharing and assessments | Learning experience · AI concepts · Youth learning |
+| Repository | What it is |
+| :--- | :--- |
+| [ai-literacy-curriculum](https://github.com/Tessangelika/ai-literacy-curriculum) | Open curriculum for teaching AI literacy to non-technical learners — lesson plans, scenario scripts, assessment frameworks |
+| [threat-aware-learner](https://github.com/Tessangelika/threat-aware-learner) | Cybersecurity awareness learning framework with MITRE ATT&CK-mapped scenario cards and interactive assessments |
+| [lxd-tools](https://github.com/Tessangelika/lxd-tools) | Practical tools for learning designers: needs analysis templates, course outline generators, storyboard scaffolds |
 
-[Explore the full project case studies](https://tessa-angelika-portfolio.vercel.app/#work)
+---
 
-## Learning technology stack
+## Selected client work
 
-Tools and platforms below are grouped by purpose. This is a **learning technology stack**, not a software engineering stack.
+| Project | Context | Contribution |
+| :--- | :--- | :--- |
+| **Professional Education Client** | eLearning for construction, finance, operations and compliance | AI-assisted curriculum design across 25+ courses; storyboards, assessments, LMS delivery and QA |
+| **AfroCloud Technologies** | Technical eLearning | Designed and delivered technical modules, practical assessments and evidence-led improvements |
+| **CloudMyTribe** | Cloud learning for adult beginners | Learning journeys, microlearning, practical checkpoints and cohort support |
+| **Cozy Earth** | Brand ambassador and sales enablement | Product knowledge and practical onboarding experiences |
+| **CyberSafe Foundation** | Cloud security education | CyberGirls Fellow 2023 — Grade A (76.92/100); security-aware learning design |
+| **Nova Pioneer School** | Social-emotional and career learning | Self-paced experiences with scenario activities, AI-coach prompts and peer sharing |
 
-**eLearning authoring and multimedia**
+[Full case studies on the portfolio site](https://tessa-angelika-portfolio.vercel.app/#work)
 
-![Articulate Storyline](https://img.shields.io/badge/Articulate-Storyline-EEEAF7?style=flat-square&labelColor=EEEAF7&color=EEEAF7)
+---
+
+## Technology stack
+
+**eLearning authoring**
+
+![Articulate Storyline](https://img.shields.io/badge/Articulate-Storyline-EEEAF7?style=flat-square)
 ![Articulate Rise](https://img.shields.io/badge/Articulate-Rise-EEEAF7?style=flat-square)
 ![Articulate 360](https://img.shields.io/badge/Articulate-360-EEEAF7?style=flat-square)
 ![Vyond](https://img.shields.io/badge/Vyond-Animation-F0E9DF?style=flat-square)
@@ -51,9 +61,6 @@ Tools and platforms below are grouped by purpose. This is a **learning technolog
 **Learning management systems**
 
 Moodle · Tovuti · Canvas
-TalentLMS
-360Learning
-Docebo
 
 **AI-enhanced production**
 
@@ -64,24 +71,18 @@ Claude · ChatGPT · Gemini · Synthesia · HeyGen · ElevenLabs · Noiz · Mind
 ![SCORM](https://img.shields.io/badge/SCORM-Packaging-EDF0F3?style=flat-square)
 ![xAPI](https://img.shields.io/badge/xAPI-Learning%20Data-EDF0F3?style=flat-square)
 ![LMS QA](https://img.shields.io/badge/LMS-Quality%20Assurance-EDF0F3?style=flat-square)
-![Learning Analytics](https://img.shields.io/badge/Learning-Analytics-EDF0F3?style=flat-square)
-
-**Additional learning platforms**
-
-![Workday Learning](https://img.shields.io/badge/Workday-Learning-EDF0F3?style=flat-square)
-![Learning Experience Platforms](https://img.shields.io/badge/Learning%20Experience-Platforms-EDF0F3?style=flat-square)
 
 **Cloud, security and AI credentials**
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-EDF0F3?style=flat-square)
 ![Microsoft Azure Fundamentals](https://img.shields.io/badge/Microsoft-AZ--900-EDF0F3?style=flat-square)
-![CCSK](https://img.shields.io/badge/CCSK-Foundation%20Training-EDF0F3?style=flat-square)
 ![ITIL 4](https://img.shields.io/badge/ITIL-4%20Foundation-EDF0F3?style=flat-square)
 ![Cisco Junior Cybersecurity Analyst](https://img.shields.io/badge/Cisco-Junior%20Cybersecurity%20Analyst-EDF0F3?style=flat-square)
 ![CyberGirls Cloud Security](https://img.shields.io/badge/CyberGirls-Cloud%20Security%20Grade%20A-EDF0F3?style=flat-square)
-![Future of AI](https://img.shields.io/badge/BlueDot%20Impact-Future%20of%20AI-EDF0F3?style=flat-square)
+![Virtually Testing Foundation](https://img.shields.io/badge/Virtually%20Testing-Cybersecurity%20Validation%20Analyst-EDF0F3?style=flat-square)
+![BlueDot Future of AI](https://img.shields.io/badge/BlueDot%20Impact-Future%20of%20AI-EDF0F3?style=flat-square)
 
-<sub>AWS CLF-C02: 804/1000 · CyberGirls Cloud Security Fellowship: Grade A, 76.92/100 · Future of AI: 2026</sub>
+<sub>AWS CLF-C02: 804/1000 · CyberGirls Cloud Security Fellowship: Grade A, 76.92/100 · BlueDot Future of AI: 2026</sub>
 
 **Cybersecurity tools and methods**
 
@@ -91,13 +92,9 @@ Claude · ChatGPT · Gemini · Synthesia · HeyGen · ElevenLabs · Noiz · Mind
 ![Purple Teaming](https://img.shields.io/badge/Purple-Teaming-EDF0F3?style=flat-square)
 ![Attack Flows](https://img.shields.io/badge/Attack-Flows-EDF0F3?style=flat-square)
 ![Jupyter Notebooks](https://img.shields.io/badge/Jupyter-Security%20Validation-EDF0F3?style=flat-square)
-![Identity and Access Management](https://img.shields.io/badge/Identity%20%26%20Access-Management-EDF0F3?style=flat-square)
+![IAM](https://img.shields.io/badge/Identity%20%26%20Access-Management-EDF0F3?style=flat-square)
 
-**Cybersecurity education**
-
-![Threat Awareness](https://img.shields.io/badge/Threat-Awareness-EDF0F3?style=flat-square)
-![Cloud Security](https://img.shields.io/badge/Cloud-Security-EDF0F3?style=flat-square)
-![Security-focused Learning Design](https://img.shields.io/badge/Security--focused-Learning%20Design-EDF0F3?style=flat-square)
+---
 
 ## My approach
 
@@ -105,10 +102,12 @@ Claude · ChatGPT · Gemini · Synthesia · HeyGen · ElevenLabs · Noiz · Mind
 | :--- | :--- | :--- | :--- |
 | Understand learners, context and performance needs | Define outcomes, map journeys and plan assessments | Build scenarios, interactions and accessible content | Publish, QA, support learners and review feedback |
 
+---
+
 ## Work with me
 
-I am available for **full-time, contract and freelance opportunities** across instructional design, learning experience design, eLearning development, LMS administration and technical education.
+Available for **full-time, contract and freelance** work across instructional design, learning experience design, eLearning development, LMS administration and cybersecurity education.
 
-[View project portfolio](https://drive.google.com/file/d/18J3NQsnghF2cuDqK1Ruu9wg6jXyKO5ud/view?usp=sharing) · [Portfolio website](https://tessa-angelika-portfolio.vercel.app/) · [Connect on LinkedIn](https://www.linkedin.com/in/tessammaitsi/) · [Start a conversation](mailto:tessangelika@gmail.com)
+[Portfolio website](https://tessa-angelika-portfolio.vercel.app/) &nbsp;·&nbsp; [Connect on LinkedIn](https://www.linkedin.com/in/tessammaitsi/) &nbsp;·&nbsp; [Email](mailto:tessangelika@gmail.com)
 
-<sub>Client-owned learning materials and private LMS data are not published. Public portfolio descriptions are high-level; the Nova Pioneer project is identified as a prototype.</sub>
+<sub>Client-owned learning materials and private LMS data are not published. Public portfolio descriptions are high-level; the Nova Pioneer project is a prototype.</sub>
